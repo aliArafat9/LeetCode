@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0919-projection-area-of-3d-shapes](https://github.com/aliArafat9/LeetCode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1236-n-th-tribonacci-number](https://github.com/aliArafat9/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/aliArafat9/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
 # Geometry
 |  |
 | ------- |
@@ -30,3 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/aliArafat9/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+# Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
