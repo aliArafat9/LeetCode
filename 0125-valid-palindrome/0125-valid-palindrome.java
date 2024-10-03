@@ -1,25 +1,27 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if (s.isEmpty()) {
-        	return true;
+        // Create a new string with only alphanumeric characters and convert it to
+        // lowercase
+        StringBuilder x = new StringBuilder();
+
+        // Filter out non-alphanumeric characters
+        // for (char i : s.toCharArray()) {
+        //     if (Character.isLetterOrDigit(i)) {
+        //         x.append(Character.toLowerCase(i));
+        //     }
+        // }
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if (Character.isLetterOrDigit(c)) {
+                x.append(Character.toLowerCase(c));
+            }
         }
-        int start = 0;
-        int last = s.length() - 1;
-        while(start <= last) {
-        	char currFirst = s.charAt(start);
-        	char currLast = s.charAt(last);
-        	if (!Character.isLetterOrDigit(currFirst )) {
-        		start++;
-        	} else if(!Character.isLetterOrDigit(currLast)) {
-        		last--;
-        	} else {
-        		if (Character.toLowerCase(currFirst) != Character.toLowerCase(currLast)) {
-        			return false;
-        		}
-        		start++;
-        		last--;
-        	}
-        }
-        return true;
+
+        // Reverse the filtered string
+        String y = x.reverse().toString();
+
+        // Reverse the reversed string back to check equality with the original filtered
+        // string
+        return x.reverse().toString().equals(y);
     }
 }
