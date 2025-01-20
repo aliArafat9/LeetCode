@@ -64,12 +64,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/aliArafat9/LeetCode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aliArafat9/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aliArafat9/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -82,5 +84,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/aliArafat9/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
