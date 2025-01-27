@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aliArafat9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aliArafat9/LeetCode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/aliArafat9/LeetCode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/aliArafat9/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/aliArafat9/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -106,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aliArafat9/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/aliArafat9/LeetCode/tree/master/0022-generate-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
