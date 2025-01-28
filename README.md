@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/aliArafat9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/aliArafat9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aliArafat9/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/aliArafat9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/aliArafat9/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
