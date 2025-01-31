@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aliArafat9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aliArafat9/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aliArafat9/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/aliArafat9/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliArafat9/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/aliArafat9/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aliArafat9/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aliArafat9/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/aliArafat9/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -123,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/aliArafat9/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aliArafat9/LeetCode/tree/master/0018-4sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aliArafat9/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
