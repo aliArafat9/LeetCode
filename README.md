@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/aliArafat9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aliArafat9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Backtracking
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aliArafat9/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aliArafat9/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
