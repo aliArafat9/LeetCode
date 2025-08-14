@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aliArafat9/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/aliArafat9/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/aliArafat9/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
