@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 | [0342-power-of-four](https://github.com/aliArafat9/LeetCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aliArafat9/LeetCode/tree/master/0011-container-with-most-water) |
+| [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
