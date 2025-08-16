@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aliArafat9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/aliArafat9/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/aliArafat9/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
