@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 | [0342-power-of-four](https://github.com/aliArafat9/LeetCode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
 ## Linked List
 |  |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aliArafat9/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Backtracking
 |  |
@@ -187,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0053-maximum-subarray) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
