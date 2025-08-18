@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aliArafat9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0679-24-game](https://github.com/aliArafat9/LeetCode/tree/master/0679-24-game) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/aliArafat9/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Two Pointers
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/aliArafat9/LeetCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
 | [0342-power-of-four](https://github.com/aliArafat9/LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/aliArafat9/LeetCode/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
 ## Linked List
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/aliArafat9/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aliArafat9/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/aliArafat9/LeetCode/tree/master/0679-24-game) |
 ## Simulation
 |  |
 | ------- |
