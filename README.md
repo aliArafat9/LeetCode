@@ -130,10 +130,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/aliArafat9/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/aliArafat9/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/aliArafat9/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aliArafat9/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/aliArafat9/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/aliArafat9/LeetCode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
