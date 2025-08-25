@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aliArafat9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0498-diagonal-traverse](https://github.com/aliArafat9/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/aliArafat9/LeetCode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aliArafat9/LeetCode/tree/master/0043-multiply-strings) |
+| [0498-diagonal-traverse](https://github.com/aliArafat9/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
+| [0498-diagonal-traverse](https://github.com/aliArafat9/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Bit Manipulation
