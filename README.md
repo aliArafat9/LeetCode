@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/aliArafat9/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/aliArafat9/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3748-sort-matrix-by-diagonals](https://github.com/aliArafat9/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/aliArafat9/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aliArafat9/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aliArafat9/LeetCode/tree/master/0018-4sum) |
+| [3748-sort-matrix-by-diagonals](https://github.com/aliArafat9/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/aliArafat9/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3748-sort-matrix-by-diagonals](https://github.com/aliArafat9/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bit Manipulation
 |  |
 | ------- |
