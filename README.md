@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0679-24-game](https://github.com/aliArafat9/LeetCode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/aliArafat9/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aliArafat9/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliArafat9/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/aliArafat9/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/aliArafat9/LeetCode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/aliArafat9/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/aliArafat9/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/aliArafat9/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
