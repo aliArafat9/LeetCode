@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aliArafat9/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/aliArafat9/LeetCode/tree/master/0322-coin-change) |
 | [0498-diagonal-traverse](https://github.com/aliArafat9/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/aliArafat9/LeetCode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aliArafat9/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aliArafat9/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/aliArafat9/LeetCode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/aliArafat9/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aliArafat9/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -249,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/aliArafat9/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aliArafat9/LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
