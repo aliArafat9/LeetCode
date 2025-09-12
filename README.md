@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/aliArafat9/LeetCode/tree/master/0647-palindromic-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aliArafat9/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/aliArafat9/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/aliArafat9/LeetCode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/aliArafat9/LeetCode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/aliArafat9/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -261,4 +263,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aliArafat9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/aliArafat9/LeetCode/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
