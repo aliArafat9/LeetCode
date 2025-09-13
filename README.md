@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/aliArafat9/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aliArafat9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aliArafat9/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aliArafat9/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aliArafat9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aliArafat9/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aliArafat9/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aliArafat9/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aliArafat9/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aliArafat9/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -271,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/aliArafat9/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aliArafat9/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
